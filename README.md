@@ -1,1 +1,1 @@
-# library-studies-golang
+# Library studies golang
